@@ -1,0 +1,3 @@
+D:\Qt\Tools\CMake_64\bin\cmake.exe -E rm -f CMakeFiles\EventExtractor.dir/objects.a
+D:\Qt\Tools\mingw1120_64\bin\ar.exe qc CMakeFiles\EventExtractor.dir/objects.a @CMakeFiles\EventExtractor.dir\objects1.rsp
+D:\Qt\Tools\mingw1120_64\bin\g++.exe -g -mwindows -Wl,--whole-archive CMakeFiles\EventExtractor.dir/objects.a -Wl,--no-whole-archive -o EventExtractor.exe -Wl,--out-implib,libEventExtractor.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\EventExtractor.dir\linkLibs.rsp
